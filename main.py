@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-"""
-FallnAI DropShipper - Autonomous Dropshipping Solution
---------------------------------------------------------
-A fully autonomous system for setting up and running a dropshipping business.
-No human interaction required after initial configuration.
-
-This is the main entry point for the application.
-"""
 import os
 import sys
 import logging
