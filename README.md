@@ -1,0 +1,2 @@
+# DropShipper
+Autonomous dropshipping platform.
